@@ -1,0 +1,62 @@
+.titulo{
+	font-style: normal;
+	font-weight: bold;
+	background-color: rgba(119,136,153,0.5);
+	font-size: 50pt;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.homeTitulo{
+	font-style: normal;
+	font-weight: bold;
+	background: #696969;
+	font-size: 50pt;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.lista{
+	color: white;
+	background-color: rgba(10,23,55,0.5);
+}
+
+body{
+	width: auto;
+	height: auto;
+	background-image: url(https://onaircode.com/wp-content/uploads/2017/11/Constellation.jpg);
+}
+
+.vertical-menu {
+    width: 200px; 
+}
+
+.vertical-menu a {
+	padding: 10px;
+            margin: 2px;
+            width: 165px;
+    background-color: #eee; 
+    color: black; 
+    display: block; 
+    padding: 12px; 
+    text-decoration: none;
+}
+
+.vertical-menu a:hover {
+    background-color: #ccc; 
+}
+
+.vertical-menu a.active {
+    background-color: rgba(0,0,205,0.5);
+    color: white;
+}
+
+.tabela {
+   
+   border: 3px solid black;
+   border-collapse: collapse;
+   text-align: left;
+   vertical-align: bottom;
+   background-color: #4CAF50;
+
+}

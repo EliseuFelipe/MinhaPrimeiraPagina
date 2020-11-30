@@ -1,2 +1,2 @@
 # MinhaPrimeiraPagina
-This é my first projeto da disciplina de P.Web
+Projeto da disciplina programação web - IFPB

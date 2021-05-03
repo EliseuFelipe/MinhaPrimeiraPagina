@@ -1,2 +1,2 @@
 # MinhaPrimeiraPagina
-Projeto da disciplina programação web - IFPB
+Atividade da disciplina programação web - IFPB (2019)
